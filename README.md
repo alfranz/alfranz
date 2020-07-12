@@ -1,7 +1,7 @@
 ## Hi there 👋
 
+my name is Alex Franz and enjoy working with data.
 
-
-- :truck: I’m currently working at Sennder in Berlin as a Senir 
-- :rocket: I’m currently learning ...
-- I enjoy :running:,
+- :truck: working at Sennder in Berlin as a Senior Machine Learning Engineer. Building data driven products.
+- :rocket: constantly learning new things
+- :palm_tree: :biking_man: :muscle: 
